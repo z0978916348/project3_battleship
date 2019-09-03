@@ -7,3 +7,5 @@
 使用 share library 的技巧，載入 AI 並且執行                                                                                                   
 
 遊戲裡，存在一個 player1 以及 player2 的 AI，兩個 AI 會互相攻擊船隻，直到一方沈船而結束遊戲並獲得勝利。
+
+ppt有更詳盡的介紹。
