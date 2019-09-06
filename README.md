@@ -42,8 +42,14 @@
 
 (6) 不考慮移動時重疊
 
+### share library:
+![](shared_library.png)
 
+### 遊戲階段:
+![](遊戲階段.png)
 
+### 遊戲畫面:
+![](battle.png)
 
 
 
